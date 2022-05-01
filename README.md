@@ -1,7 +1,19 @@
+<p align="center">
+    <img src="https://telegra.ph/file/24441adc35da2e3475f92.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
+<h1 align="center">SPAM - CALL 🌙</h1>
+
+---------
+
+## MADE BY 💌
+[![kannachann](https://github.com/kannachann.png?size=100)](https://github.com/kannachann)
+
+---------
+
 ## 📞 Spam Call 
-💬 Script SpamCall Termux 
-📑 Python Legue
-💌 By Letta-Sama
+* 💬 Script SpamCall Termux 
+* 📑 Python Legue
+* 💌 By Letta-Sama
 
 ---------
 
