@@ -29,16 +29,21 @@
 ```bash
 $ pkg upgrade && pkg update
 $ pkg install python -y
+$ pkg install python python2 -y
 $ pkg install git -y
-$ git clone https://github.com/kannachann/Spam-CALL/
-$ cd Spam-CALL
+$ pkg install wget -y
+$ pkg install curl -y
+$ pip install requests mechanize bs4
+$ pip2 install requests mechanize bs4
+$ git clone https://github.com/kannachann/spam-call/
+$ cd spam-call
 $ python spam.py
 
 T U N G G U .  . .
-> Masukan nomor telpon
-• contoh: 888xxxxx
+* Masukan nomor telpon
+> contoh: 888xxxxx
 
-> Masukan Jumlah Spam
+• Masukan Jumlah Spam
 ```
 
 ---------
@@ -51,4 +56,4 @@ T U N G G U .  . .
 * [`Mister-AM`](https://github.com/mister-am)
 
 ## ```Contributor 🔭```
-* [`SadBOY01`](https://github.com/sadboy01)
+* [`Kangsad01`](https://github.com/Kangsad01)
