@@ -23,8 +23,8 @@ def mengetik(z):
       time.sleep(0.05)
 
 os.system('clear')
-print("\033[37;1m Follow Dulu Kak ( ꈍᴗꈍ)")
-os.system('termux-open-url https://github.com/ArulMC123')
+print("\033[37;1m Subscribe Dulu Kack ( ꈍᴗꈍ)")
+os.system('termux-open-url https://youtube.com/channel/UCJh9I1GEVJk8qQWGs1t09eQ')
 sleep(3)
 os.system('clear')
 mengetik("M E M U A T  S O U R C E . . .")        
