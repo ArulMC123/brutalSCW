@@ -24,7 +24,7 @@ def mengetik(z):
 
 os.system('clear')
 print("\033[37;1m Follow Dulu Kak ( ꈍᴗꈍ)")
-os.system('termux-open-url https://github.com/kannachann')
+os.system('termux-open-url https://github.com/ArulMC123')
 sleep(3)
 os.system('clear')
 mengetik("M E M U A T  S O U R C E . . .")        
@@ -42,15 +42,15 @@ banner= """
 \033[37;1m ╚════██║██╔═══╝ ██╔══██║██║╚██╔╝██║ \033[37;1m ██║     ██╔══██║██║     ██║
 \033[37;1m ███████║██║     ██║  ██║██║ ╚═╝ ██║ \033[37;1m ╚██████╗██║  ██║███████╗███████╗
 \033[37;1m ╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝     ╚═╝ \033[37;1m  ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝
-\033[37;1m                              BY LETTA SAMA 🐰
+\033[37;1m                              BY Zaxsion[ARUL]
 \033[37;1m❏
-\033[36;1m┊ \033[37;1m🐰 Authour : Kannachann
-\033[36;1m┊ \033[37;1m🐰 gitHub  : https:github.com/kannachann
-\033[36;1m┊ \033[37;1m🐰 Whatsapp: wa.me/62831433937633
+\033[36;1m┊ \033[37;1m🐰 Authour : Zaxsion [Arul]
+\033[36;1m┊ \033[37;1m🐰 gitHub  : https:github.com/ArulMC123
+\033[36;1m┊ \033[37;1m🐰 Whatsapp: wa.me/6288219647445
 \033[36;1m┗═────────···
 \033[36;1m
 \033[36;1m❏ 📮 NOTE:
-\033[36;1m┊\033[37;1m Gunakan Script Ini dengan baik
+\033[36;1m┊\033[37;1m Gunakam Script Ini Dengan Bijak © ARULz
 \033[36;1m┊\033[37;1m Jangan Lupa Kasih Star dan follow Yaw ( /^ω^)/♪♪
 \033[36;1m┗═────────···"""
 sleep(1)
